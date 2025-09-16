@@ -1,4 +1,4 @@
-# Post-Test-2-PBO
+# Post Test-2 PBO
 
 ## Deskripsi Program
 
@@ -118,6 +118,23 @@ Disini terdapat contoh dari pemilihan nomor 4, disini user akan ditampilkan data
 Apabila user menginput angka yang tidak ada pilihannya atau huruf akan menampilkan pesan dan mengembalikan ke menu utama.
 
 ### 5. Cari Pelanggan
+
+<img width="625" height="276" alt="image" src="https://github.com/user-attachments/assets/d90e7b89-ff53-4425-8951-3b5769cb9f20" />
+
+Disini terdapat contoh pemilihan 5, jadi di search ini kita menginput huruf yang ada pada namanya. Sistem akan menampilkan nama-nama yang memiliki huruf yang diinput.
+
+<img width="516" height="222" alt="image" src="https://github.com/user-attachments/assets/be70cb85-0234-49ed-8f7d-5992d79543f4" />
+
+Apabila nama yang dicari belum terdaftar, sistem akan menampilkan pesan dan mengembalikan user ke menu utama.
+
+### 6. Keluar
+
+<img width="862" height="348" alt="image" src="https://github.com/user-attachments/assets/e9a240cf-b4d9-4503-8916-228909a93dd6" />
+
+Yang terakhir, apabila user memilih pilihan 6, sistem akan menampilkan pesan dan menyelesaikan programnya.
+
+
+
 
 
 
